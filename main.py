@@ -1,4 +1,4 @@
-# OSRS Highscores GIM Prestige Parser
+# OSRS Highscores GIM Prestige Scraper
 # Nick Lueth
 # Last edited: 4/18/2025
 
