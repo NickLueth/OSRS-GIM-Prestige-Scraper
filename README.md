@@ -54,6 +54,7 @@ Final Leaderboard:
 ```
 
 ### Notes:
+- The team you specify **MUST** have a prestige star; otherwise, the script will run until it runs out of pages to scrape.
 - The script will continue scraping until it finds your team or runs into an error.
 - If a team name appears multiple times across pages, only the first occurrence will appear in the final leaderboard.
 - The script is case-insensitive when checking for duplicate team names.
