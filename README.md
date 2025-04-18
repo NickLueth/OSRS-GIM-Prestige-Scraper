@@ -1,5 +1,5 @@
 # OSRS Highscores GIM Prestige Scraper
-Created by: Nick Lueth\n
+Created by: Nick Lueth<br>
 Last Edited: 4/18/2025
 
 This Python script scrapes the leaderboard of "Group Prestiged" Ironman teams from the [Old School RuneScape Ironman Group Leaderboard](https://secure.runescape.com/m=hiscore_oldschool_ironman/group-ironman/) and generates a numbered leaderboard of the teams until it finds the specified team name. The script removes any duplicate teams from the final leaderboard and prints it in sequential order.
